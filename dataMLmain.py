@@ -17,7 +17,7 @@ Using Machine Learning and Python, this will help detect if someone has Diabetes
 	""")
 
 #Get the data
-df = pd.read_csv('C:/Users/Blake/Desktop/Python_files/Diabetes.csv')
+df = pd.read_csv('C:/Users/Diabetes.csv')
 
 #Show Data file informtion
 sl.subheader('Data Info')
